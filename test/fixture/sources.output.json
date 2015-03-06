@@ -1,34 +1,34 @@
 [
   {
-    "line": 4,
-    "message": "sources.missing-type: \"type\" is required"
+    "message": "sources.missing-type: \"type\" is required",
+    "line": 4
   },
   {
-    "line": 7,
-    "message": "sources.invalid-type.type: expected one of [vector, raster, geojson, video], invalid found"
+    "message": "sources.invalid-type.type: expected one of [vector, raster, geojson, video], invalid found",
+    "line": 7
   },
   {
-    "line": 12,
-    "message": "sources.no-tilejson-properties-with-url.tiles: a source with a \"url\" property must not include the \"tiles\" property"
+    "message": "sources.no-tilejson-properties-with-url.tiles: a source with a \"url\" property must not include the \"tiles\" property",
+    "line": 12
   },
   {
-    "line": 21,
-    "message": "sources.video-missing-coordinates: missing required property \"coordinates\""
+    "message": "sources.video-missing-coordinates: missing required property \"coordinates\"",
+    "line": 21
   },
   {
-    "line": 29,
-    "message": "sources.video-wrong-coordinates.coordinates[0]: array expected, number found"
+    "message": "sources.video-wrong-coordinates.coordinates[0]: array expected, number found",
+    "line": 29
   },
   {
-    "line": 29,
-    "message": "sources.video-wrong-coordinates.coordinates[1]: array expected, string found"
+    "message": "sources.video-wrong-coordinates.coordinates[1]: array expected, string found",
+    "line": 29
   },
   {
-    "line": 29,
-    "message": "sources.video-wrong-coordinates.coordinates[2][1]: number expected, string found"
+    "message": "sources.video-wrong-coordinates.coordinates[2][1]: number expected, string found",
+    "line": 29
   },
   {
-    "line": 29,
-    "message": "sources.video-wrong-coordinates.coordinates[3]: array length 2 expected, length 0 found"
+    "message": "sources.video-wrong-coordinates.coordinates[3]: array length 2 expected, length 0 found",
+    "line": 29
   }
 ]
