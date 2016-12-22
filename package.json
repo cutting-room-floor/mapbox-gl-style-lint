@@ -1,5 +1,5 @@
 {
-  "name": "mapbox-gl-style-lint",
+  "name": "@mapbox/mapbox-gl-style-lint",
   "version": "7.3.0",
   "description": "migrate and validate mapbox gl style definitions",
   "bin": {
